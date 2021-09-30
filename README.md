@@ -1,7 +1,6 @@
 # Shamir
 
 [![Latest Stable Version](https://poser.pugx.org/unitpay/shamir/v/stable.png)](https://packagist.org/packages/unitpay/shamir)
-[![Total Downloads](https://poser.pugx.org/unitpay/shamir/downloads.png)](https://packagist.org/packages/unitpay/shamir)
 [![Build status](https://github.com/unitpay/shamir/workflows/build/badge.svg)](https://github.com/unitpay/shamir/actions?query=workflow%3Abuild)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unitpay/shamir/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unitpay/shamir/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/unitpay/shamir/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/unitpay/shamir/?branch=master)
