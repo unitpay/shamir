@@ -160,7 +160,7 @@ final class Shamir
         }
 
         $diff = ((Tables::logTable[$a] - Tables::logTable[$b]) + 255) % 255;
-
+        /** @psalm-suppress PossiblyInvalidArrayOffset */
         $ret = Tables::expTable[$diff];
 
         // ensure we return zero if $a is zero but aren't subject to timing attacks
